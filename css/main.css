@@ -13,6 +13,7 @@ body {
     width: max(60%, 30em);
     margin: auto;
     line-height: 1.5;
+    background-color: #bbeaff;
 }
 
 nav {
